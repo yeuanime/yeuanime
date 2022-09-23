@@ -1,0 +1,9 @@
+{
+	"ip":"Progaming303.aternos.me",
+	"port": 34127,
+	"name": "luciferafk",
+	"auto-night-skip":"false",
+	"login-enabled":"true",
+	"register-cmd":"/register 12345",
+	"login-cmd":"/login 12345"
+}
